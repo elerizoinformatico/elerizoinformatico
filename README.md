@@ -1,8 +1,14 @@
-## Hi there 👋
+## ¡Hola! 👋
 
 :computer: **Ingeniero Civil en Computación**
+
 :pencil: **Programador**
-:oncoming_automobile: **Fan de los videojuegos, películas y animé**
+
+:video_game: **Fan de los videojuegos, animé y la bicicleta**
+
+:pizza: **Amante de la pizza**
+
+:sunny: **Team calor**
 
 ### Contacto
 
