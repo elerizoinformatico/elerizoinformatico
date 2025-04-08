@@ -1,14 +1,10 @@
 ## ¡Hola! 👋
 
-:computer: **Ingeniero Civil en Computación**
-
-:pencil: **Programador**
-
-:video_game: **Fan de los videojuegos, animé y la bicicleta**
-
-:pizza: **Amante de la pizza**
-
-:sunny: **Team calor**
+* :computer: **Ingeniero Civil en Computación**
+* :pencil: **Programador**
+* :video_game: **Fan de los videojuegos, animé y la bicicleta**
+* :pizza: **Amante de la pizza**
+* :sunny: **Team calor**
 
 ### Contacto
 
