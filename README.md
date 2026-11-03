@@ -12,6 +12,12 @@
 
 ### 🌐 Contacto
 
+[![Sitio Web](https://img.shields.io/badge/Web-elerizoinformatico.github.io-blue?style=plastic&logo=googlechrome&logoColor=white)](https://elerizoinformatico.github.io/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás_Soto-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisoto4004/)
+
+[![Actividad](https://img.shields.io/github/commit-activity/m/elerizoinformatico/elerizoinformatico.github.io?style=plastic&logo=github&label=Actividad)](https://github.com/elerizoinformatico)
+
 <p align="left">
   <a href="https://elerizoinformatico.github.io/">
     <img src="https://img.shields.io/badge/Web-181717?style=plastic&logo=googlechrome&logoColor=white" alt="Sitio Web" />
