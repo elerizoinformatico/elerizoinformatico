@@ -10,6 +10,8 @@
 
 ![website](https://img.shields.io/website?url=https%3A%2F%2Felerizoinformatico.github.io%2F)
 
+![website](https://elerizoinformatico.github.io/)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/elerizoinformatico/FirstRepo)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/elerizoinformatico/elerizoinformatico.github.io)
