@@ -12,7 +12,7 @@
 
 ### 🌐 Contacto
 
-[![WebSite](https://img.shields.io/badge/Web-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://elerizoinformatico.github.io/)
+[![Web](https://img.shields.io/badge/Web-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://elerizoinformatico.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisoto4004/)
 
